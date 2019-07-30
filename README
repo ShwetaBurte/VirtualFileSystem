@@ -1,0 +1,2 @@
+Command to Compile the program : gcc vfs.c -o vfsexe
+Command to run the program : ./vfsexe
